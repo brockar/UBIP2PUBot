@@ -26,8 +26,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-access-key.json
-access
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -110,6 +110,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+access-key.json
+access
+helper.py
 
 # Spyder project settings
 .spyderproject
